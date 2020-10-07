@@ -21,3 +21,21 @@ Por ejemplo:
 </HTML>
 ```
 
+##CSS
+
+Las hojas del estilo **CSS** nos permiten personalizar el aspectpo de nuestras paginas web. Por ejemplo:
+
+```css
+body{
+background-color: black;
+color: white
+}
+```
+
+#Javasript
+El lenguaje **JavaSript** nos permite hacer paginas dinamicas que cambian segun el usuario y como interacciona con los elementos de la pagina. Por ejemplo:
+
+```Javascript
+document.fetElementbyID('demo').innerHTML = "hola a todos"
+
+Hasta luego
